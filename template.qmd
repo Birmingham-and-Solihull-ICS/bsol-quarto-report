@@ -3,7 +3,7 @@ title: "Report Title"
 date: "`r Sys.Date()`"
 author: Siti Hassan
 date-format: "D MMMM YYYY"
-format: bsol-html
+format: bsol_html
 execute:
   echo: false
   cache: true              # Cache results
@@ -193,6 +193,6 @@ The boxplots visualize the distribution of randomly generated numbers in two dif
 ```{=html}
 
 <div class="footer-banner">
-  <img src="_extensions/Birmingham-and-Solihull-ICS/bsol-html/Logo/ML_logo.png" alt="ML Logo" class="footer-logo left-logo" />
-  <img src="_extensions/Birmingham-and-Solihull-ICS/bsol-html/Logo/ICB_logo.png" alt="ICB Logo" class="footer-logo right-logo" />
+  <img src="_extensions/Birmingham-and-Solihull-ICS/bsol_html/Logo/ML_logo.png" alt="ML Logo" class="footer-logo left-logo" />
+  <img src="_extensions/Birmingham-and-Solihull-ICS/bsol_html/Logo/ICB_logo.png" alt="ICB Logo" class="footer-logo right-logo" />
 </div>

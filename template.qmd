@@ -3,7 +3,7 @@ title: "Report Title"
 date: "`r Sys.Date()`"
 author: Siti Hassan
 date-format: "D MMMM YYYY"
-format: bsol-doc-html
+format: bsol-doc
 execute:
   echo: false
   cache: true              # Cache results

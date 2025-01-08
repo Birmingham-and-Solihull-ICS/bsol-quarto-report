@@ -1,4 +1,3 @@
----
 title: "BSOL Document theme"
 date: "`r Sys.Date()`"
 version: 1.0.0
@@ -45,4 +44,3 @@ contributes:
       backgroundcolor: '#f0f4f5'
       # Set font
       mainfont: 'Open Sans'
----
